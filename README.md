@@ -1,5 +1,5 @@
 Nothing interesting to see here.
-And I use Arch btw.
+Oh, and I use Arch btw.
 <!---
 - 👋 Hi, I’m @el-mugroso
 - 👀 I’m interested in ...
