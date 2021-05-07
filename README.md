@@ -1,4 +1,4 @@
-I use Arch btw.
+I use Arch BTW.
 <!---
 - 👋 Hi, I’m @el-mugroso
 - 👀 I’m interested in ...
