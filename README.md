@@ -1,4 +1,6 @@
 I use Arch BTW.
+
+Edit: JK, I actually use Gentoo :)
 <!---
 - 👋 Hi, I’m @el-mugroso
 - 👀 I’m interested in ...
